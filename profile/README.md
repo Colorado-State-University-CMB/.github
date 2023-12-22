@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is a collection of repositories used for the Colorado State University Graduate [Cell and Molecular Biology program's](https://cmb.colostate.edu/) quantitative resources.
+
 <!--
 
 **Here are some ideas to get you started:**
