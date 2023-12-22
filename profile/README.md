@@ -2,7 +2,10 @@
 
 This is a collection of repositories used for the Colorado State University Graduate [Cell and Molecular Biology's](https://cmb.colostate.edu/) [Quantitative program](https://cmb.colostate.edu/qcmb/).
 
-<img align="right" src="https://github.com/Colorado-State-University-CMB/.github/blob/main/img/Z-stack-of-MHS-cells-infected-with-M.-abscessus-21-cropped.jpg?raw=true" alt="qCMB logo"/>
+<div align="right">
+  <a href="https://cmb.colostate.edu/qcmb/"><img align="right" src="https://github.com/Colorado-State-University-CMB/.github/blob/main/img/Z-stack-of-MHS-cells-infected-with-M.-abscessus-21-cropped.jpg?raw=true" alt="qCMB logo" title="Z-stack of MHS cells infected with M. abscessus"/></a><br/>
+</div>
+
 
 Our mission is to introduce students to basic computational biology topics and skills, and support their progression to advanced techniques in research.
 
