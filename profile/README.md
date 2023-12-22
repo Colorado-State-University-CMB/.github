@@ -4,6 +4,7 @@ This is a collection of repositories used for the Colorado State University Grad
 
 Our mission is to introduce students to basic computational biology topics and skills, and support their progression to advanced techniques in research.
 
+There are course repositories for Introduction to CM515: Quantitative Cell and Molecular Biology (formerly CM580A3). There are also forks of software and datacarpentry lessons that have been adapted for Colorado State platforms and resources.
 
 
 <!--
